@@ -1,5 +1,5 @@
 ## Hi, I’m ARSHA MANDAMBETH
-### - I completed my BSc Mathematics in 2021 from Pazhassi Raja N.S.S College Mattannur
+### # . I completed my BSc Mathematics in 2021 from Pazhassi Raja N.S.S College Mattannur
 ### - I’m interested in learning new things and updating my skills
 ### - I’m currently learning Advanced Certification Program in Data Analytics from Edubridge Learning
 ### - I’m looking to collaborate on Data Analytics project
